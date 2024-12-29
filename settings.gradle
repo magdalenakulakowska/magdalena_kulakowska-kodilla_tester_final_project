@@ -1,2 +1,4 @@
 rootProject.name = 'kodilla-course-final-project'
+include 'selenium-tests'
+include 'postman-tests'
 
